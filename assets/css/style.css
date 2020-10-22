@@ -1,0 +1,262 @@
+.columnas{
+
+    width: 50px;
+    height: 40px;
+border-style: solid ;
+text-align: center;
+line-height: 40px;
+
+}
+
+.OtrosNoMetales{
+
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color:#7CAD67 ;
+    text-align: center;
+line-height: 40px;
+}
+
+.AlcalinoTerreos{
+    position: relative;
+    left: 40px;
+    bottom: 275px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #EFAAD2 ;
+    text-align: center;
+line-height: 40px;
+}
+.Alcalinos{
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #D7A4CC;
+}
+.GasesNobles{
+    position: relative;
+    left: 745px;
+    bottom: 597px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #6FB2CF;
+}
+.LantanidosDos{
+    position: relative;
+    left: 80px;
+    bottom: 735px;
+    display: inline-block;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #CE6C0E;
+}
+.Lantanidos{
+    position: relative;
+    left: 127px;
+    bottom: 550px;
+    display: inline-block;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #CE6C0E;
+}
+.OtrosNoMetalesUno{
+    display: inline-block;
+    position: relative;
+    left: 570px;
+    bottom: 1057px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #7CAD67;
+}
+.ActinidosDos{
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 781px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #E7938C;
+}
+.Actinidos{
+    position: relative;
+    left: 127px;
+    bottom: 588px;
+    display: inline-block;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color:#E7938C;
+}
+.OtrosNoMetalesDos{
+    display: inline-block;
+    position: relative;
+    left: 615px;
+    bottom: 1057px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #7CAD67;
+}
+
+.MetalesDTransicion{
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #CE9D0E;
+}
+.OtrosNoMetalesTres{
+    position: relative;
+    left: 660px;
+    bottom: 1057px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #7CAD67;
+}
+.MetalesDTransicionDos{
+    display: inline-block;
+    position: relative;
+    left: 125px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #CE9D0E;
+}
+.MetalesDTransicionUno{
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #CE9D0E;
+}
+.OtrosMetalesUno{
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #FFFF00;
+}
+.MetalesDTransicionTres{
+    display: inline-block;
+    position: relative;
+    left: 125px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color:#CE9D0E;
+}
+.OtrosMetalesDos{
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color:#FFFF00;
+}
+.OtrosMetalesTres{
+    display: inline-block;
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color:#FFFF00;
+}
+.OtrosMetalesCuatro{
+    display: inline-block;
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #FFFF00;
+}
+.OtrosMetalesCinco{
+    display: inline-block;
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #FFFF00;
+}
+.MetaloidesUno{
+    position: relative;
+    left: 525px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+
+.MetaloidesDos{
+    position: relative;
+    left: 570px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+.MetaloidesTres{
+    display: inline-block;
+    position: relative;
+    left: 570px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+.MetaloidesCinco{
+    display: inline-block;
+    position: relative;
+    left: 660px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+.MetaloidesCuatro{
+    display: inline-block;
+    position: relative;
+    left: 615px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+.Halogenos{
+    position: relative;
+    left: 702px;
+    bottom: 1839px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: #629CA6;
+}
